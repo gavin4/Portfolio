@@ -1,2 +1,6 @@
 # Portfolio
-repository storing the code for my website portfolio
+repository for my online work portfolio
+
+## Buiding and Running
+
+..* Installing and using express
