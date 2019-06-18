@@ -5,6 +5,7 @@ p{
 }
 body{
 	background-image: linear-gradient(#CCC, rgba( 255, 255, 255, 0)), url("../img/forest.jpg");
+	background-repeat: no-repeat;
 }
 #bounded-box{
 	display: grid;
