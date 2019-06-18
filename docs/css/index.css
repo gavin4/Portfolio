@@ -3,6 +3,9 @@ p{
 	color: #222;
 	font-family: Arial, Helvetica, serif;
 }
+body{
+	background-image:url("../img/forest.jpg");
+}
 #bounded-box{
 	display: grid;
 	grid: 150px / auto auto auto;
