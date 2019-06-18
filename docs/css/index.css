@@ -4,7 +4,7 @@ p{
 	font-family: Arial, Helvetica, serif;
 }
 body{
-	background-image: url("../img/forest.jpg"), linear-gradient(#CCC, rgba( 0, 0, 0, 0));
+	background-image: url("../img/forest.jpg"), linear-gradient(#CCC, rgba( 255, 255, 255, 0));
 }
 #bounded-box{
 	display: grid;
