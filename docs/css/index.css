@@ -1,6 +1,7 @@
 p{
 	background: #CCC;
-	color: maroon;
+	color: #EEE;
+	font-family: Arial, Helvetica, serif;
 }
 #bounded-box{
 	display: grid;
