@@ -4,7 +4,7 @@ p{
 	font-family: Arial, Helvetica, serif;
 }
 body{
-	background-image:url("../img/forest.jpg");
+	background-image: url("../img/forest.jpg");
 }
 #bounded-box{
 	display: grid;
