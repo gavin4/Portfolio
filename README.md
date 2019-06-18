@@ -1,15 +1,12 @@
 # Portfolio
-repository for my online work portfolio
+repository for my online work portfolio. This portfolio is only for the pusposes for showcasing
+programming work that I've undertaken over my coding profession and is not fo rthe purposes
+of recieving pull requests.
 
-## Buiding and Running
+## Viweing this page
 
-1. Installing and using express
-
- * Installing express on Mac
-   Open up a new terminal and navigate to your base directory. once there you will enter the folllowing line:
-
-   ```$ npm install express -g ```
-
-   The `-g` flag will make sure that it is installed globally under all your directories. 
+The only requirements necessary to view the portfolio website is by clicking [here](https://gavin4.github.io/Portfolio).
+This was done by using github pages to host the web page which includes an index.html page with included
+Cascading Style Sheets and javascript files to accompany it.
 
 
