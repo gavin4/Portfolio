@@ -3,7 +3,9 @@ p{
 	color: maroon;
 }
 #bounded-box{
-	border: 5px solid black;
+	display: grid;
+	grid: 150px / auto auto auto;
+	border: 2px solid black;
 	margin: 20px;
 	background: #888;
 }
