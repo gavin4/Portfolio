@@ -7,7 +7,7 @@ head{
 	font-family: comic, times, sans-serif;
 }
 body{
-	background-image: linear-gradient(#CCC, rgba( 255, 255, 255, 0)), url("../img/forest.jpg");
+	background-image: linear-gradient(#CCC 300%, rgba( 255, 255, 255, 0)), url("../img/forest.jpg");
 	background-repeat: no-repeat;
 }
 #bounded-box{
